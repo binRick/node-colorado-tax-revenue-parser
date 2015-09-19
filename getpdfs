@@ -1,0 +1,22 @@
+wget -nc https://www.colorado.gov/pacific/sites/default/files/0715%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report.pdf -O mj0715.pdf
+wget -nc https://www.colorado.gov/pacific/sites/default/files/0615%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report.pdf -O mj0615.pdf
+wget -nc https://www.colorado.gov/pacific/sites/default/files/0515%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report.pdf -O mj0515.pdf
+wget -nc https://www.colorado.gov/pacific/sites/default/files/0415%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report.pdf -O mj0415.pdf
+wget -nc https://www.colorado.gov/pacific/sites/default/files/0315%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report.pdf -O mj0315.pdf
+wget -nc https://www.colorado.gov/pacific/sites/default/files/0215%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report.pdf -O mj0215.pdf
+wget -nc https://www.colorado.gov/pacific/sites/default/files/0115%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report.pdf -O mj0115.pdf
+
+
+
+wget -nc https://www.colorado.gov/pacific/sites/default/files/1214%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report.pdf -O mj1214.pdf
+wget -nc https://www.colorado.gov/pacific/sites/default/files/1114%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report.pdf -O mj1114.pdf
+wget -nc https://www.colorado.gov/pacific/sites/default/files/1014%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report.pdf -O mj1014.pdf
+wget -nc https://www.colorado.gov/pacific/sites/default/files/0914%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report.pdf -O mj0914.pdf
+wget -nc https://www.colorado.gov/pacific/sites/default/files/0814%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report.pdf -O mj0814.pdf
+wget -nc https://www.colorado.gov/pacific/sites/default/files/0714%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report.pdf -O mj0714.pdf
+wget -nc https://www.colorado.gov/pacific/sites/default/files/0614%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report.pdf -O mj0614.pdf
+wget -nc https://www.colorado.gov/pacific/sites/default/files/0514%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report_revised0315.pdf -O mj0514.pdf
+wget -nc https://www.colorado.gov/pacific/sites/default/files/0414%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report_revised0315.pdf -O mj0414.pdf
+wget -nc https://www.colorado.gov/pacific/sites/default/files/0314%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report_revised0315.pdf -O mj0314.pdf
+wget -nc https://www.colorado.gov/pacific/sites/default/files/0214%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report_revised0315.pdf -O mj0214.pdf
+wget -nc https://www.colorado.gov/pacific/sites/default/files/0114%20Marijuana%20Tax%2C%20License%2C%20and%20Fees%20Report_revised0315.pdf -O mj0114.pdf
